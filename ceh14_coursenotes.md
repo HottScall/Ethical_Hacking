@@ -85,5 +85,47 @@ Motives for attacks:
 <Strong>Political</Strong>   
 <Strong>Religious</Strong>  
 <Strong>Terrorism</Strong> – Typically refers to something that involves human casualties on Critical Infrastructure  
-<Strong>Revenge</Strong>
-<Strong>MONEY, MONEY, MONEY</Strong> – The number 1 motivator behind hacking.  
+<Strong>Revenge</Strong> MONEY, MONEY, MONEY</Strong> – The number 1 motivator behind hacking.  
+
+<h3>Attack Classifications</h3>
+Types of attacks:  
+
+<Strong>Passive Attacks:</Strong> Looking for things on a Network which uses clear text, such as clear text passwords. Sensitive information or PII (Personally Identifiable Information). Almost impossible to detect.  
+Uses tolls like: Wire Sniffer, Packet Sniffer, Protocol Analyser. Wire Shark.  
+
+<Strong>Active Attacks:</Strong>
+Data Manipulation  
+Denial or Disruption of Services (DoS) 
+Breaking into systems or network 
+Password Attacks 
+Session Hijacking  
+Privileged Escalation  
+SQL Injection  
+Remote Code Execution  
+
+<Strong>Close in Attacks:</Strong> Through proximity of my target, I can get information. Gain proximity to the target, shoulder surfing and dumpster diving.  
+ 
+<Strong>Insider Attacks/Threats:</Strong> Essentially someone who is a spy or a double agent, someone who has access to systems, but they can abuse some trust. One of the most devastating types of attacks, mainly based on the trust.  
+Pod Slurping – Use a digital storage device such as an iPod to extract data from an organisation.  
+Steal a device.  
+
+<Strong>Close-in Attacks:</Strong> As long as you have a contact within an organisation. Essentially tricking you into divulging that information.  
+
+<Strong>Distribution Attacks:</Strong> Normally evolves around a 3rd party. Attacker has access to either software or hardware vendors, attack them, plant yourself in their system and then install something like malware into a software device which will eventually go to your actual target.  
+
+<h3Information Warfare</h3>
+
+<Strong>C2 (Command and Control) Warfare:</Strong> Control over compromised targets and their compromised systems. Advanced Persistent Threats (APT’s) will aim to do this constantly. Will affect or influence our opposition.   
+<Strong>Intelligence Based Warfare:</Strong> Design and Protection of systems that seeks to gain knowledge to dominate the battlespace, plus the denial of knowledge to your adversaries.  
+
+<Strong>Electronic Based Warfare: </Strong> Stopping communications between adversaries. This could be Signal Jamming, Radar Jamming, bring down email server, stop Wifi from working.  
+
+<Strong>Psychological Warfare: </Strong> Disinformation campaigns. Attacking the morale or mental resolve, get them to give up through things like propaganda.  
+
+<Strong>Hacker Warfare:</Strong> DoS, Electronic Theft, Espionage.  
+
+<Strong>Economic Warfare:</Strong> How to disrupt your adversaries, whether that be financial systems, get you to lose customers etc etc. Anything that hits the company in the pocket. 
+
+<Strong>Cyber Warfare:</Strong> Information Terrorism, Semantic Attacks (Attackers are in your system, but aren’t detected so they lie in wait until the time is right to attack) 
+
+<Strong>Simulated Warfare:</Strong>Display of weapons or power.  
