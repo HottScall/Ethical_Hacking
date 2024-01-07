@@ -113,7 +113,7 @@ Steal a device.
 
 <Strong>Distribution Attacks:</Strong> Normally evolves around a 3rd party. Attacker has access to either software or hardware vendors, attack them, plant yourself in their system and then install something like malware into a software device which will eventually go to your actual target.  
 
-<h3Information Warfare</h3>
+<h3>Information Warfare</h3>
 
 <Strong>C2 (Command and Control) Warfare:</Strong> Control over compromised targets and their compromised systems. Advanced Persistent Threats (APT’s) will aim to do this constantly. Will affect or influence our opposition.   
 <Strong>Intelligence Based Warfare:</Strong> Design and Protection of systems that seeks to gain knowledge to dominate the battlespace, plus the denial of knowledge to your adversaries.  
@@ -129,3 +129,9 @@ Steal a device.
 <Strong>Cyber Warfare:</Strong> Information Terrorism, Semantic Attacks (Attackers are in your system, but aren’t detected so they lie in wait until the time is right to attack) 
 
 <Strong>Simulated Warfare:</Strong>Display of weapons or power.  
+
+<h4>Information Warfare Strategies</h4> 
+
+<Strong>Defensive Information Warfare:</Strong> Detection, Prevention, Alerting, response systems, emergency actions, deterrents.  
+
+<Strong>Offensive Information Warfare:</Strong> Web based attacks, system hacking, MITM, Replay Attacks, Session Hijacking  
