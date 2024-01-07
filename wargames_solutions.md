@@ -57,3 +57,16 @@ To access it you need to \ and space after each new word
 <strong>cat spaces\ in\ this\ filename</strong> 
 File will open with the password, copy it  
 Log out of SSH  
+
+<h3>Level 4 Task</h3>
+The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command. 
+
+<h3>Level 4 Solution</h3>
+
+Log into the Bandit 3 session 
+ssh bandit3@bandit.labs.overthewire.org -p 2220 
+This has a hidden file in the directory, to find hidden files then us <strong>ls -a</strong> which will show all files including hidden ones.  
+The file is called <strong>.hidden</strong>  
+<strong>Cat</strong> into the .hidden file and the password is revealed.  
+Copy password
+Log out of SSH 
