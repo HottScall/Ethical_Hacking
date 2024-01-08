@@ -92,6 +92,7 @@ Obatin password and log out of SSH session
 
 <h3>Level 5 Learning</h3>
 
-<strong> -- </strong> Double Dash is used a way of ending the command line options and starting the argument. In this case it also ensure that if there are any files that begin with <strong> - </strong> to be included in the search as they may be mistaken for command line options as opposed to file names when searching
-<strong> file </strong> is used to determine a file (or set of files) type 
-So <strong> file --* </strong> says find the data type of all files within the directory, ignore any file names that start with a <strong>-</strong> and show me all the files. 
+<strong> -- </strong> Double Dash is used a way of ending the command line options and starting the argument. 
+In this case it also ensure that if there are any files that begin with <strong> - </strong> to be included in the search as they may be mistaken for command line options, as opposed to file names when searching
+<strong>file</strong> is used to determine a file (or set of files) type 
+So <strong>file --*</strong> says find the data type of all files within the directory, ignore any file names that start with a <strong>-</strong> and show me all the files. 
