@@ -70,3 +70,28 @@ The file is called <strong>.hidden</strong>
 <strong>Cat</strong> into the .hidden file and the password is revealed.  
 Copy password
 Log out of SSH 
+
+<h3>Level 5 Task</h3>
+
+The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+
+human-readable
+1033 bytes in size
+not executable
+
+<h3>Level 5 Solution</h3>
+
+Log into the Bandit 4 session 
+ssh bandit3@bandit.labs.overthewire.org -p 2220 
+Upon log in, list the directories and change into the <strong>inhere</strong> directory 
+Then call <strong>file -- *</strong>
+This will list the files within the directory and the data types within it
+All the files will be listed and only -file07 had ASCII text, all other files have data 
+Then use <strong>cat -- \-file07</strong>
+Obatin password and log out of SSH session 
+
+<h3>Level 5 Learning</h3>
+
+<strong> -- </strong> Double Dash is used a way of ending the command line options and starting the argument. In this case it also ensure that if there are any files that begin with <strong> - </strong> to be included in the search as they may be mistaken for command line options as opposed to file names when searching
+<strong> file </strong> is used to determine a file (or set of files) type 
+So <strong> file --* </strong> says find the data type of all files within the directory, ignore any file names that start with a <strong>-</strong> and show me all the files. 
