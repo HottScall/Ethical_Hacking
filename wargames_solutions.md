@@ -82,7 +82,7 @@ not executable
 <h3>Level 5 Solution</h3>
 
 Log into the Bandit 4 session 
-ssh bandit3@bandit.labs.overthewire.org -p 2220 
+ssh bandit4@bandit.labs.overthewire.org -p 2220 
 Upon log in, list the directories and change into the <strong>inhere</strong> directory 
 Then call <strong>file -- *</strong>
 This will list the files within the directory and the data types within it
