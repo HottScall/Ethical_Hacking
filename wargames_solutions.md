@@ -87,8 +87,8 @@ Upon log in, list the directories and change into the <strong>inhere</strong> di
 Then call <strong>file -- *</strong> \
 This will list the files within the directory and the data types within it \
 All the files will be listed and only -file07 had ASCII text, all other files have data \
-Then use <strong>cat -- \-file07</strong>
-Obatin password and log out of SSH session \
+Then use <strong>cat -- \ -file07</strong>
+Obatin password and log out of SSH session 
 
 <h3>Level 5 Learning</h3>
 
